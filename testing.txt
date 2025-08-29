@@ -1,3 +1,4 @@
+ok im writing backwards.
 this is the first time trying git pushing
 tring for the sec time
 its working fine
